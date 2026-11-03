@@ -1,0 +1,24 @@
+type,group,name,owner,start,end,notes
+phase,,Plan,Priya,2026-10-19,2026-11-27,Agree what you are building; who does what and how much it can cost.
+phase,,Build,Whole team,2026-11-30,2027-02-05,Design and make the first working version.
+phase,,Test and prepare,Whole team,2027-02-08,2027-03-12,Fix problems and get everything ready to share.
+phase,,Launch,Priya,2027-03-15,2027-03-31,Release it and learn from the first two weeks.
+task,Planning,Define goals and scope,Priya,2026-10-19,2026-10-30,Write down what success looks like and what is not included.
+task,Planning,Set budget and team,Priya,2026-11-02,2026-11-13,Confirm who is involved and how much time and money you have.
+task,Planning,Write the project brief,Priya,2026-11-09,2026-11-20,One page that everyone can read and agree to.
+milestone,Planning,Project approved,Priya,2026-11-27,,The decision-maker says go.
+task,Design,Talk to future users,Sam,2026-11-02,2026-11-20,Learn what people actually need before drawing anything.
+task,Design,Sketch the screens,Sam,2026-11-16,2026-12-11,Rough drawings are fine. Share early.
+task,Design,Build a clickable prototype,Sam,2026-12-07,2027-01-15,Something people can tap through to give feedback.
+milestone,Design,Design signed off,Sam,2027-01-15,,No more big design changes after this date.
+task,Development,Set up tools and accounts,Alex,2026-11-30,2026-12-11,Code storage; shared folders; anything the team needs to work together.
+task,Development,Build the core features,Alex,2026-12-14,2027-02-05,The must-haves only. Nice-to-haves wait.
+milestone,Development,Features complete,Alex,2027-02-05,,Everything planned is built; even if rough.
+task,Development,Find and fix problems,Alex,2027-02-08,2027-03-05,Test; list what is broken; fix the most important first.
+task,Marketing,Write the main message,Jo,2026-12-14,2027-01-22,One clear sentence about what it is and who it is for.
+task,Marketing,Prepare launch materials,Jo,2027-02-01,2027-03-05,Announcement text; images and a short guide.
+task,Marketing,Line up early users,Jo,2027-02-08,2027-03-12,Ask a small group to try it first and tell you what they think.
+task,Launch,Final checks,Priya,2027-03-08,2027-03-12,Walk through the checklist one last time.
+milestone,Launch,Go or no-go decision,Priya,2027-03-12,,Decide together whether it is ready.
+milestone,Launch,Launch day,Whole team,2027-03-15,,Release it.
+task,Launch,Review how it went,Priya,2027-03-22,2027-03-31,What worked; what did not; what to do next.

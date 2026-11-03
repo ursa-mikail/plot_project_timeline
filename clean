@@ -1,0 +1,3 @@
+#!/bin/sh
+# Stops Plotline and removes its container and built image. Your data in ./data is kept.
+cd "$(dirname "$0")" && docker compose down -v --rmi local --remove-orphans && echo "Cleaned up. Your data in ./data is untouched."

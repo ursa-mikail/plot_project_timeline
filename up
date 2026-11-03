@@ -1,0 +1,4 @@
+#!/bin/sh
+cd "$(dirname "$0")" || exit 1
+mkdir -p data
+PLOTLINE_USER="$(id -u):$(id -g)" docker compose up -d --build && echo "Plotline is running. Open http://localhost:8080"

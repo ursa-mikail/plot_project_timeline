@@ -1,0 +1,21 @@
+group,item,owner,due,notes,done
+Planning,Write the project goal in one sentence,Priya,2026-10-23,Done when: someone outside the project can read it and explain it back.,2026-10-22
+Planning,List what is included and what is not,Priya,2026-10-30,Done when: the list is written down and the team has read it.,2026-10-29
+Planning,Name one person who makes the final call,Priya,2026-10-30,Done when: everyone knows who to ask when opinions differ.,2026-10-28
+Planning,Get the budget approved,Priya,2026-11-13,Done when: the amount is confirmed in writing (an email is fine).,
+Planning,Share the project brief with the team,Priya,2026-11-20,Done when: every team member has replied to say they have read it.,
+Design,Talk to five future users,Sam,2026-11-20,Done when: you have notes from each conversation saved in one place.,
+Design,Agree the look and feel,Sam,2026-12-11,Done when: colors; fonts and a few example screens are approved.,
+Design,Test the prototype with three people,Sam,2027-01-08,Done when: you have a list of what confused them.,
+Design,Get final design sign-off,Sam,2027-01-15,Done when: the decision-maker has approved in writing.,
+Development,Set up tools and shared folders,Alex,2026-12-11,Done when: everyone on the team can open and save work.,
+Development,Back up your work somewhere safe,Alex,2026-12-18,Done when: you have restored one file from the backup to prove it works.,
+Development,Keep a running list of known problems,Alex,2027-02-08,Done when: each problem has an owner and a priority.,
+Development,Check it works on a phone and a computer,Alex,2027-03-05,Done when: you have tried the main steps on both.,
+Marketing,Write one clear sentence about what it does,Jo,2027-01-22,Done when: a stranger understands it in under ten seconds.,
+Marketing,Prepare the announcement text and images,Jo,2027-03-05,Done when: the decision-maker has approved the wording.,
+Marketing,Send a preview to early users,Jo,2027-03-12,Done when: at least five people have tried it and replied.,
+Launch,Walk through the whole checklist one last time,Priya,2027-03-12,Done when: every earlier item is ticked or has a written reason it is not.,
+Launch,Agree who is on call on launch day,Priya,2027-03-12,Done when: names and phone numbers are shared with the team.,
+Launch,Announce it,Jo,2027-03-15,Done when: the message has gone to everyone on your list.,
+Launch,Hold a short review afterwards,Priya,2027-03-31,Done when: three things to keep and three things to change are written down.,

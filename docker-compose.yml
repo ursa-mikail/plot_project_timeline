@@ -1,0 +1,10 @@
+services:
+  plotline:
+    build: .
+    image: plotline:latest
+    ports: ["8080:8080"]
+    # Your CSV files live in ./data on your computer.
+    volumes: ["./data:/app/data"]
+    # Run as you, so the files in ./data stay yours (./up sets this for you).
+    user: "${PLOTLINE_USER:-0:0}"
+    restart: unless-stopped
